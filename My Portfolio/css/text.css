@@ -1,0 +1,99 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.welcome h1{
+    text-align: left;
+    font-weight: 600;
+    left: 8px;
+    position: relative;
+    font-weight: 700;
+}
+.welcome p{
+    font-size: 15px;
+    margin-top: 5px;
+    padding: 6px 5px 10px 5px;
+    font-size: 16px;
+    left: 5px;
+    position: relative;
+    font-weight: 400;
+}
+.welcome p a{
+    text-align: center;
+}
+.button-read-more{
+    color: white;
+    background: black;
+    display: block;
+    width: 30%;
+    margin: 20px auto 3px auto;
+    padding: 13px;
+    border-radius: 5px;
+    font-weight: 400;
+}
+.about-me{
+    color: black;
+}
+.about-me h2{
+    position: relative;
+    top: -90px;
+    text-align: left;
+    color: black;
+    left: 8px;
+    font-weight: 700;
+}
+.about-me p{
+    font-size: 17px;
+    position: relative;
+    top: -70px;
+    left: 5px;
+    padding: 6px 5px 5px 5px;
+    margin-top: -15px;
+    font-weight: 400;
+}
+.about-me p a{
+    position: relative;
+    text-align: center;
+}
+.articles h2{
+    text-align: left;
+    left: 7px;
+    position: relative;
+    margin-top: 15px;
+    font-weight: 700;
+}
+.articles p{
+    margin-top: 20px;
+    padding: 6px 5px 5px 5px;
+    font-size: 17px;
+    position: relative;
+    left: 5px;
+    font-weight: 400;
+}
+.articles p a{
+    text-align: center;
+}
+.copy-right{
+    display: block;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+}
+footer .footer-links a{
+    color: white;
+}
+.footer-links a:nth-child(1){
+    color: wheat;
+    position: relative;
+    left: 134px;
+}
+.footer-links a:nth-child(2){
+    display: block;
+    left: 90px;
+    position: relative;
+}
+.about-me p a{
+    width: 100px;
+}
+.articles p a{
+    width: 100px;
+}

@@ -1,0 +1,15 @@
+@import url("header.css");
+@import url("header.css");
+@import url("images.css");
+@import url("cotainers.css");
+@import url("background.css");
+@import url("text.css");
+@import url("animate.css");
+@import url("media.css");
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}

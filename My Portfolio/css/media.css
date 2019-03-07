@@ -1,0 +1,243 @@
+@media (min-width: 400px){
+    .footer-links{
+        position: relative;
+        left: 100000px;
+    }
+    .welcome h1{
+        position: relative;
+        top: 10px;
+        left: 10px;
+    }
+    .welcome p{
+        position: relative;
+        top: 20px;
+    }
+    .welcome p, .about-me p, .articles p{
+        width: 100%;
+    }
+    .footer-links a:nth-child(1){
+        left: 150px;
+    }
+    .footer-links a:nth-child(2){
+        left: 110px;
+    }
+    
+    nav, footer, .image-container{
+        width: 100%;
+    }
+}
+@media (min-width: 360px){
+    .welcome p, .about-me p, .articles p{
+        width: 320px;
+        margin: auto;
+    }
+    .footer-links{
+        position: relative;
+        left: 10px;
+    }
+    
+    nav, footer, .image-container{
+        width: 100%;
+    }
+}
+@media (min-width: 340px){
+    .footer-links{
+        position: relative;
+        left: 10px;
+    }
+    .welcome p, .about-me p, .articles p{
+        width: 300px;
+    }
+    .welcome p a, .about-me p a, .articles p a{
+        width: 100px;
+    }
+    nav, footer, .image-container{
+        width: 100%;
+    }
+}
+@media (min-width: 370px){
+    .footer-links{
+        position: relative;
+        left: 22px;
+    }
+    nav, footer, .image-container{
+        width: 100%;
+    }
+} 
+@media (min-width: 390px){
+    .footer-links{
+        left: 29px;
+    }
+    .welcome h1, .about-me h2, .articles h2{
+        margin-left: 10px;
+    }
+    nav, footer, .image-container{
+        width: 100%;
+    }
+}
+@media (min-width: 430px){
+    .footer-links{
+        left: 34px;
+    }
+    nav, footer, .image-container{
+        width: 100%;
+    }
+}
+@media (min-width: 460px){
+    .footer-links{
+        left: 48px;
+    }
+    .about-me p{
+        top: -100000000;
+    }
+@media (min-width: 500px){
+    .articles p{
+        top: 20px;
+    }
+    .about-me h2{
+        top: -140px;
+    }
+    .footer-links{
+        position: relative;
+        left: 73px;
+    }
+}
+@media (min-width: 545px){
+    .footer-links{
+        left: 85px;
+        position: relative;
+    }
+    .about-me p{
+        position: relative;
+        top: -100px;
+    }
+}
+@media (min-width: 566px){
+    .footer-links{
+        left: 90px;
+        position: relative;
+    }
+    .welcome p{
+        position: relative;
+        top: 20px;
+    }
+}
+@media (min-width: 580px){
+    .footer-links{
+        position: relative;
+        left: 98px;
+    }
+}
+@media (min-width: 590px){
+    .footer-links{
+        position: relative;
+        left: 115px;
+    }
+    .welcome p, .about-me p, .articles p{
+        position: relative;
+        left: -40px;
+    }
+    .welcome p a, .about-me p a, .articles p a{
+        position: relative;
+        left: 40px;
+        top: 10px;
+    }
+    .welcome p{
+        position: relative;
+        top: 45px;
+    }
+}
+@media (min-width: 628px){
+    .footer-links{
+        left: 125px;
+    }
+}
+@media (min-width: 648px){
+    .footer-links{
+        left: 140px;
+    }
+}
+@media (min-width: 400px){
+    .ham-burger{
+        margin-left: 365px;
+    }
+}
+@media (min-width: 430px){
+    .ham-burger{
+        position: relative;
+        left: 30px;
+    }
+}
+@media (min-width: 460px){
+    .ham-burger-background{
+        display: none;
+    }
+    nav{
+        position: relative;
+        top: 0;
+        height: 60px;
+        text-align: center;
+        padding: 10px;
+    }
+    nav ul li{
+        display: inline-block;
+        position: relative;
+        top: 15px;
+        transition: all 0s;
+    }
+    nav ul li a{
+        padding: 10px;
+    }
+    .welcome{
+        position: relative;
+        top: 0px;
+    }
+    .about-me{
+        position: relative;
+    }
+    .image-container{
+        position: relative;
+        top: 100px;
+    }
+    .articles{
+        position: relative;
+        top: 20px;
+    }
+    footer{
+        position: relative;
+        top: 150px;
+    }
+    .about-me{
+        top: -50px;
+        position: relative;
+    }
+    .about-me p{
+        position: relative;
+        top: 20px;
+    }
+}
+@media (min-width: 610px){
+    .welcome{
+        height: 300px;
+    }
+    .welcome p a{
+        position: relative;
+        top: 40px;
+    }
+    .about-me h2{
+        position: relative;
+        top: -180px;
+    }
+    .about-me p{
+        position: relative;
+        top: -100px;
+        left: -50px;
+    }
+    .articles{
+        height: 150px;
+    }
+    .articles p a{
+        position: relative;
+        top: 20px;
+    }
+}

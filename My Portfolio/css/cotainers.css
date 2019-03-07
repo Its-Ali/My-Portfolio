@@ -1,0 +1,54 @@
+.ham-burger{
+    height: 5px;
+    width: 25px;
+    background: white;
+    margin: 2px 2px 2px 89%;
+    position: relative;
+    top: 7px;
+}
+.ham-burger-background{
+    background: black;
+    height: 40px;
+    margin: 0;
+    padding: 0;
+}
+.about-me{
+    position: relative;
+    top: -100px;
+    margin: 0;
+}
+.articles{
+    position: relative;
+    top: -123px;
+}
+.articles{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+    height: 100px;
+    background: url(img/4.jpeg);
+}
+footer{
+    position: relative;
+    background: black;
+    color: white;
+    height: 80px;
+    margin: -1000;
+}
+.wrapper{
+    height: 505px;
+}
+.about-me{
+    height: 113px;
+}
+.welcome{
+    position: relative;
+    top: -100px;
+    height: 200px;
+}
+label .ham-burger-background{
+    z-index: 100;
+}
+label div.ham-burger-background .ham-burger{
+    z-index: 10;
+}
